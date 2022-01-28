@@ -1,11 +1,12 @@
-﻿Imports System.Windows.Controls
+Imports System.Windows.Controls
 
 Namespace FolderBrowserDialogServiceSample.Views
-    Partial Public Class FolderBrowserDialogView
+
+    Public Partial Class FolderBrowserDialogView
         Inherits UserControl
 
         Public Sub New()
-            InitializeComponent()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace
