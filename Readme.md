@@ -12,7 +12,7 @@
 # How to: use FolderBrowserDialogService
 
 
-This example demonstrates how to use FolderBrowserDialogService.
+This example demonstrates how to use FolderBrowserDialogService from the [DevExpress MVVM Framework](https://www.devexpress.com/products/net/controls/wpf/mvvm-wpf.xml).
 
 <br/>
 
