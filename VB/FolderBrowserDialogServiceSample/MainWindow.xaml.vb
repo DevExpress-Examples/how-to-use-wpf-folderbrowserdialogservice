@@ -1,9 +1,9 @@
-Imports DevExpress.Xpf.Core
+Imports System.Windows
 
 Namespace FolderBrowserDialogServiceSample
 
     Public Partial Class MainWindow
-        Inherits DXWindow
+        Inherits Window
 
         Public Sub New()
             Me.InitializeComponent()
