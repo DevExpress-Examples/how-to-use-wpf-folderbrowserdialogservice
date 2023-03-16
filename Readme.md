@@ -3,17 +3,24 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T298257)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [FolderBrowserDialogViewModel.cs](./CS/FolderBrowserDialogServiceSample/ViewModels/FolderBrowserDialogViewModel.cs) (VB: [FolderBrowserDialogViewModel.vb](./VB/FolderBrowserDialogServiceSample/ViewModels/FolderBrowserDialogViewModel.vb))
-* **[FolderBrowserDialogView.xaml](./CS/FolderBrowserDialogServiceSample/Views/FolderBrowserDialogView.xaml) (VB: [FolderBrowserDialogView.xaml](./VB/FolderBrowserDialogServiceSample/Views/FolderBrowserDialogView.xaml))**
-<!-- default file list end -->
-# How to: use FolderBrowserDialogService
+# How to Use the WPF FolderBrowserDialogService
 
+This example demonstrates how to use the [FolderBrowserDialogService](https://docs.devexpress.com/WPF/114755/mvvm-framework/services/predefined-set/folderbrowserdialogservice) and specify its properties in the View Model.
 
-This example demonstrates how to use FolderBrowserDialogService from the [DevExpress MVVM Framework](https://www.devexpress.com/products/net/controls/wpf/mvvm-wpf.xml).
+![image](https://user-images.githubusercontent.com/65009440/225649654-a8bb3152-0d7a-432e-9d42-74f7315087d2.png)
 
-<br/>
+## Files to Review
 
+* [FolderBrowserDialogViewModel.cs](./CS/FolderBrowserDialogServiceSample/FolderBrowserDialogViewModel.cs) (VB: [FolderBrowserDialogViewModel.vb](./VB/FolderBrowserDialogServiceSample/FolderBrowserDialogViewModel.vb))
+* [MainWindow.xaml](./CS/FolderBrowserDialogServiceSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/FolderBrowserDialogServiceSample/MainWindow.xaml))
 
+## Documentation
+
+* [FolderBrowserDialogService](https://docs.devexpress.com/WPF/114755/mvvm-framework/services/predefined-set/folderbrowserdialogservice)
+* [Services in ViewModelBase Descendants](https://docs.devexpress.com/WPF/17446/mvvm-framework/services/services-in-viewmodelbase-descendants)
+* [WPF MVVM Framework](https://docs.devexpress.com/WPF/15112/mvvm-framework)
+
+## More Examples
+
+* [How to Use OpenFileDialogService and SaveFileDialogService](https://github.com/DevExpress-Examples/how-to-use-openfiledialogservice-and-savefiledialogservice-t300099)
