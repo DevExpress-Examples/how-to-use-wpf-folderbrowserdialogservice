@@ -1,7 +1,8 @@
-﻿Imports System.Windows
+Imports System.Windows
 
 Namespace FolderBrowserDialogServiceSample
-    Partial Public Class App
+
+    Public Partial Class App
         Inherits Application
 
         Protected Overrides Sub OnExit(ByVal e As ExitEventArgs)
