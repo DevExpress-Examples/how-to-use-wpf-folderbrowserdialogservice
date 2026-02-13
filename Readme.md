@@ -26,7 +26,7 @@ This example demonstrates how to use the [FolderBrowserDialogService](https://do
 
 * [How to Use OpenFileDialogService and SaveFileDialogService](https://github.com/DevExpress-Examples/how-to-use-openfiledialogservice-and-savefiledialogservice-t300099)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-use-wpf-folderbrowserdialogservice&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-use-wpf-folderbrowserdialogservice&~~~was_helpful=no)
 
